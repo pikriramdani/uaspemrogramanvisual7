@@ -1,6 +1,5 @@
-# uaspemrogramanvisual7
 
-# UAS PEMOGRAMAN VISUAL
+# UAS PEMOGRAMAN VISUAL (7)
 | Nama    | Pikri Ramdani       |
 | ------  | -------------       |
 | NIM     | 312010162           |
