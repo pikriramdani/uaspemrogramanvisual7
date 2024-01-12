@@ -1,6 +1,6 @@
 # uaspemrogramanvisual7
 
-# UAS PEMOGRAMAN MOBILE
+# UAS PEMOGRAMAN VISUAL
 | Nama    | Pikri Ramdani       |
 | ------  | -------------       |
 | NIM     | 312010162           |
